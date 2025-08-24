@@ -18,9 +18,11 @@ These guidelines apply to the entire repository.
 ## Commit Guidelines
 - Use conventional commit messages such as `feat:`, `fix:`, `docs:`, or `chore:`.
 - Keep messages concise and in the imperative mood.
+- Update `changelog.md` with a brief summary of changes.
 
 ## Project Structure
 - Main application: `src/CustomizationHub.App` (Windows Forms).
 - Core library: `src/UltimaSDK`.
 - Solution file: `UOCustomizationHub.sln`.
+- Art asset tool: `src/ArtAssetStudio`.
 
