@@ -10,3 +10,6 @@
 - Configure Art Asset Studio with Windows Desktop SDK and Ultima SDK integration.
 - Implement basic art asset management operations.
 
+*1.0.2*
+- Add Windows Forms UI for browsing and managing static art.
+
